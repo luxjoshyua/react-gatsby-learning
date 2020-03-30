@@ -1,0 +1,11 @@
+What is Gatsby?
+* A static site generator
+* Uses GraphQL to get data
+* Uses React for templating
+* Includes plugin architecture
+
+A review of Gatsby basics
+* Gatsby is a static site generator
+* Under the hood it uses Node, GraphQL and React
+* Primary benefits are speed, security and developer experience
+* Has stable and growing community 
